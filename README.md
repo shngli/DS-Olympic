@@ -20,3 +20,5 @@ The target represents a categorized number of nights that the person or group wi
     - 1: 1 or 2 nights
     - 2: between 3 nights (included) and 1 month
     - 3: more than 1 month
+
+- Code Status: Last updated in June 2021
